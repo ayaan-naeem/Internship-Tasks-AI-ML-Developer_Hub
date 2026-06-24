@@ -99,4 +99,3 @@ and all 3 have been completed successfully.
 pip install pandas numpy matplotlib seaborn scikit-learn
 3. Open any task notebook in VS Code or Jupyter
 4. Run all cells from top to bottom
-5. 
